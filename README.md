@@ -17,7 +17,7 @@ Instructions how to integrate the template to your repository.
 #### 4. You may add as much information as you want but these are the minimum requirements
 
 
-<br/><br/><br/><br/>
+<br/><hr/><br/>
 
 
 ## Intructions if contributing to existing or forked repository
