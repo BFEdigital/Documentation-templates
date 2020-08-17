@@ -22,6 +22,15 @@ Include following information:
 ## Nice to know and issues
 Speak about issues you faced during the challenge. Especially concerning data sets.
 
+What are the next steps?
+
 ## Data sources
 List your data sources
 
+Try to include date, URL, organization and format
+
+## Contact
+How to get in touch with you
+
+## Key words
+List some key words
