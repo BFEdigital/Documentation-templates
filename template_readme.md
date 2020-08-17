@@ -25,12 +25,12 @@ Speak about issues you faced during the challenge. Especially concerning data se
 What are the next steps?
 
 ## Data sources
-List your data sources
+List your data sources.
 
-Try to include date, URL, organization and format
+Try to include date, URL, organization and format.
 
 ## Contact
-How to get in touch with you
+How to get in touch with you.
 
 ## Key words
-List some key words
+List some key words.
