@@ -6,6 +6,7 @@ Here goes your awesome project description and motivation! (Short)
 * [Approach](#approach)
 * [Nice to know and issues](#nice-to-know-and-issues)
 * [Data sources](#data-sources)
+* [Contact](#contact)
 
 ## Challenge design 
 Include following information:
